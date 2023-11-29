@@ -1,0 +1,39 @@
+{
+  "name": "namaste-react---mujtaba",
+  "version": "1.0.0",
+  "description": "namaste react course by akshay saini",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujtbkhn/namaste-react.git"
+  },
+  "keywords": [
+    "mujtaba",
+    "khan"
+  ],
+  "author": "mujtaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujtbkhn/namaste-react/issues"
+  },
+  "homepage": "https://github.com/mujtbkhn/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.23.3",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions",
+    "last 2 Edge versions"
+  ]
+}
